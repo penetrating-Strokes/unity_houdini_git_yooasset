@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HybridCLR 体验项目
 
 一个示例热更新项目。本示例演示了热更新脚本挂载到热更新资源中，并且正常运行。
@@ -68,3 +69,6 @@
 - 再将运行，屏幕上会打印"hello,world"。
 
 
+=======
+# unity_houdini_git_yooasset
+>>>>>>> 815a9cb1baea1e429d5a7145bd0abfa4fa50582a
