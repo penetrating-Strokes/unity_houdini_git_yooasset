@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 4142045467
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31f3663946e66ef49614a5b68e5abc15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 291c50680df082f9ba83e9a74b692275
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a9d4ddd3c4e60245b6bc4f9f1435291, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.0.3-preview/Space Shooter/GameRes/Entity/player_bullet.prefab
+Dependencies: []

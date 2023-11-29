@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1611828509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83e01b71d46d39512c70df41ddefd68c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9cdf9e1e4af69c5d84f5e0601b36ef5d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ffef5a382eef32d46b1d6175c85f644e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.0.3-preview/Space Shooter/GameRes/Entity/asteroid02.prefab
+Dependencies:
+- G:/hybridclr_trial-main/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/unityshaders.bundle
